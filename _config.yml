@@ -6,9 +6,9 @@ color:
   saturation: 0.8264171269256622
   rhythmicContrast: 0.4145294069312513
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: the grid test website
